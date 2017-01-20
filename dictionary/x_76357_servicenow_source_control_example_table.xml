@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="ServiceNow Source Control Example Table" max_length="40" name="x_76357_servicenow_source_control_example_table" type="collection"/>
+</database>

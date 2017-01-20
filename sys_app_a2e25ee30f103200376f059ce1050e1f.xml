@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="ServiceNow Source Control Example">76e212270f103200376f059ce1050e7b</menu>
+        <name>ServiceNow Source Control Example</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_76357_servicenow</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_76357_servicenow</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-19 23:59:01</sys_created_on>
+        <sys_id>a2e25ee30f103200376f059ce1050e1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-01-19 23:59:01</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="x_76357_servicenow.user" name="x_76357_servicenow.user">b6e212270f103200376f059ce1050e7f</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>
